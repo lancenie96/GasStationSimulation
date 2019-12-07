@@ -1,29 +1,21 @@
 #ifndef _InitFile_
 #define _InitFile_
 
-#include <stdio.h>
-#include <string>
-#include <iostream>
-#include "Customer.h"
-#include "Pump.h"
-#include "InitFile.h"
-#include "..\rt.h"
-
 //***************************************************************
-//						INSTRUCTION								|
+//						INSTRUCTION								
 //***************************************************************
-//																|
-//	1. Build GSC project;										|
-//	2. Change the GSCProcessDir to the directory of GSC.exe;	|
-//	3. Play with different number of customers and pumps;		|
-//			- Change CUSTOMER_NUMBER or PUMP_NUMBER				|
-//	4. Rebuild GSC project;										|
-//	5. Run the program;											|
-//	6. Enter the initial prices for all grades of fuel,			|
-//		and then hit ENTER;										|
-//	7. Follow the instructions on GSC display window;			|
-//	8. Have fun.												|
-//																|
+//			
+//	1. Build GSC project;			
+//	2. Change the GSCProcessDir to the directory of GSC.exe;
+//	3. Play with different number of customers and pumps;	
+//			- Change CUSTOMER_NUMBER or PUMP_NUMBER	
+//	4. Rebuild GSC project;			
+//	5. Run the program;			
+//	6. Enter the initial prices for all grades of fuel,
+//		and then hit ENTER;			
+//	7. Follow the instructions on GSC display window;
+//	8. Have fun.				
+//				
 //***************************************************************
 
 //--------------------
